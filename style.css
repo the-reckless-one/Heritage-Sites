@@ -1,0 +1,144 @@
+ body{
+    background-color:#cf9254;
+ }
+ .upper1{
+    cursor: pointer;
+    position:absolute;
+    top: 8px;
+    right: 520px;
+    color:black;
+     }
+ .upper2{
+    position:absolute;
+    top: 8px;
+    right: 380px;
+    cursor: pointer;
+    color:black;
+   }
+ .upper3{
+    position:absolute;
+    top: 8px;
+    right: 200px;
+    color:black;
+    cursor: pointer;
+ }
+ .upper4{
+    position:absolute;
+    top: 8px;
+    right: 20px;
+    color:black;
+    cursor: pointer;
+ }
+  .exp{
+    font-size: 130px;
+    position:absolute;
+    top: 0px;
+   left: 20px;
+    color:black;
+ }
+  .he{
+    color:black;
+    position: absolute;
+    top: 43%;
+    left:38%;
+    transform: translate((-41%,-38%));
+ }
+ .s1{
+    display: block;
+    position: absolute;
+    top: 57%;
+    left:6%;
+    height: 300px;
+    width:200px;
+    flex:25%
+ }
+ .s2{
+    display: block;
+    position: absolute;
+    top: 57%;
+    left:25%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+ .s3{
+    display: block;
+    position: absolute;
+    top: 57%;
+    left:44%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+ .s4{
+    display: block;
+    position: absolute;
+    top: 57%;
+    left:63%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+.s5{
+    display: block;
+    position: absolute;
+    top: 57%;
+    left:82%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }   
+.s6{
+    display: block;
+    position: absolute;
+    top: 112%;
+    left:6%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+.s7{
+    display: block;
+    position: absolute;
+    top: 112%;
+    left:25%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+.s8{
+    display: block;
+    position: absolute;
+    top: 112%;
+    left:44%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+.s9{
+    display: block;
+    position: absolute;
+    top: 112%;
+    left: 63%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
+.s10{
+    display: block;
+    position: absolute;
+    top: 112%;
+    left: 82%;
+    height: 300px;
+    width:200px;
+    flex:25%;
+    flex-direction:column;
+    }
